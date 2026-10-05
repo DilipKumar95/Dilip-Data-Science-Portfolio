@@ -29,9 +29,9 @@ modeling, data visualization, and generative AI.
 3. [Movie Performance & Ratings Trend Analysis](#movie-performance--ratings-trend-analysis)
 4. [Telecom Customer Churn Prediction](#telecom-customer-churn-prediction)
 5. [House Price Prediction Using Regression Models](#house-price-prediction-using-regression-models)
-6. [Childcare Cost Affordability Analysis](#childcare-cost-affordability)
+6. [Childcare Cost Affordability Analysis](Childcare-Cost-Affordability/)
 7. [Personalized Fitness Assistant Powered by Generative AI](#personalized-fitness-assistant-powered-by-generative-ai)
-8. [AI-Driven Retail Optimization](#ai-driven-retail-optimization)
+8. [AI-Driven Retail Optimization](AI-Driven-Retail-Optimization/)
 9. [Smart Healthcare Operations](#Smart-Healthcare-Operations)
 
 I selected nine projects that best represent my experience and skills across data analysis, statistical analysis, machine learning, predictive modeling, generative AI, and business analytics. I chose to prioritize the quality and relevance of the projects rather than include an additional project solely to reach ten.
