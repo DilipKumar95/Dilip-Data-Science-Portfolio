@@ -93,15 +93,15 @@ This model serves as a **baseline forecasting approach** and highlights opportun
 
 - The exploratory analysis examined relationships among sales demand, promotional activity, seasonal patterns, inventory levels, and pricing.
 
-Promotional activity: Promotions were explored as a potential contributor to changes in sales demand. Further statistical analysis is required to establish the magnitude and reliability of their effects.
+- Promotional activity: Promotions were explored as a potential contributor to changes in sales demand. Further statistical analysis is required to establish the magnitude and reliability of their effects.
 
-Seasonality: Calendar-based features were included to investigate potential seasonal demand patterns.
+- Seasonality: Calendar-based features were included to investigate potential seasonal demand patterns.
 
-Inventory monitoring: Comparing available stock with observed demand can help identify possible overstock and stockout risks.
+- Inventory monitoring: Comparing available stock with observed demand can help identify possible overstock and stockout risks.
 
-Pricing: Price-related features were analyzed for possible relationships with sales quantities. The current results do not establish a reliable pricing effect.
+- Pricing: Price-related features were analyzed for possible relationships with sales quantities. The current results do not establish a reliable pricing effect.
 
-Model limitations: The Random Forest baseline achieved an R² of -0.036 and a MAPE of 260.44%, indicating poor predictive performance on the evaluation dataset.
+- Model limitations: The Random Forest baseline achieved an R² of -0.036 and a MAPE of 260.44%, indicating poor predictive performance on the evaluation dataset.
 
 Interpretation
 
