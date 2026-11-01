@@ -117,7 +117,7 @@ AIRetailOptimization/
 │
 ├── appendix/
 ├── data/
-├── Predicting Retail Demand Using Random Forest.ipnyb
+├── Predicting Retail Demand Using Random Forest.ipynb
 └── README.md
 ```
 
