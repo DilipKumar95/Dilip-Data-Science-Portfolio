@@ -88,13 +88,8 @@ This model serves as a **baseline forecasting approach** and highlights opportun
 
 ---
 
-## 🔍 Key Insights
+## 🔍 Key Insights and Limitations
 
-- Promotions significantly increase sales volume  
-- Seasonal timing strongly influences demand  
-- Stock levels and reorder thresholds impact performance  
-- Higher prices are associated with lower sales quantity  
-- Inventory risk can be identified through demand–stock comparison
 
 - The exploratory analysis examined relationships among sales demand, promotional activity, seasonal patterns, inventory levels, and pricing.
 
