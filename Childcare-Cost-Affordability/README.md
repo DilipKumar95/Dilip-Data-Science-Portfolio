@@ -169,7 +169,7 @@ Supports deeper analysis for researchers, policy analysts, and grant writers.
 
 ```
 
-ChildcareCostsAnalysis/
+Childcare-Cost-Affordability/
 │
 ├── Tableau          
 ├── appendix/       
