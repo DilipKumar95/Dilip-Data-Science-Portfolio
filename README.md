@@ -77,6 +77,8 @@ Developed regression models to predict housing prices based on property features
 **Project Overview:**
 Created multi-format data visualizations to analyze childcare cost and affordability across U.S. regions. Delivered insights via an interactive Tableau dashboard, infographic for public awareness, and a policy-focused presentation for stakeholders.
 
+[Source Code](https://github.com/DilipKumar95/Dilip-Data-Science-Portfolio/tree/main/Childcare-Cost-Affordability)
+
 
 ### Personalized Fitness Assistant Powered by Generative AI
 
