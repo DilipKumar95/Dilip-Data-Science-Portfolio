@@ -178,6 +178,67 @@ Childcare-Cost-Affordability/
 
 ```
 
+### Data Source and Files
+
+**Primary source:** National Database of Childcare Prices (NDCP), U.S. Department of Labor, Women's Bureau.
+
+Official resource: https://www.dol.gov/agencies/wb/topics/childcare
+
+The analysis uses two Excel datasets:
+
+- **Original dataset:** `nationaldatabaseofchildcareprices.xlsx` — contains the original childcare pricing and related socioeconomic data.
+- **Cleaned dataset:** `Project_Final_Dataset_Cleaned.xlsx` — contains selected fields used to develop the Tableau visualizations.
+
+The project focuses on historical county-level childcare affordability patterns in the United States from 2008 to 2018.
+
+---
+## 🚀 How to Explore This Project
+
+### Prerequisites
+
+- Microsoft Excel or compatible spreadsheet software
+- Tableau Desktop or Tableau Public with support for packaged Tableau workbooks (`.twbx`)
+- Microsoft PowerPoint or compatible presentation software
+
+### Step 1: Download the Project
+
+Visit the GitHub repository:
+
+https://github.com/DilipKumar95/Dilip-Data-Science-Portfolio
+
+Download the repository as a ZIP file or clone it using Git.
+
+Open the `Childcare-Cost-Affordability` folder.
+
+### Step 2: Review the Data
+
+Open the `data` folder and examine the original and cleaned Excel datasets.
+
+The datasets contain geographic, household income, and childcare cost information used for the visualizations.
+
+### Step 3: Explore Tableau Visualizations
+
+Open the `Tableau` folder.
+
+The project includes three packaged Tableau workbooks:
+
+- `DilipKumarBalu_Medium-1_PPTVisuals.twbx`
+- `DilipKumarBalu_Medium-2_InfographicVisuals.twbx`
+- `DilipKumarBalu_Medium-3_TableauDashboard.twbx`
+
+Open the workbooks in Tableau to explore the charts and interactive dashboard.
+
+### Step 4: Explore the Dashboard
+
+Use the available dashboard filters to investigate childcare costs and affordability across different geographic areas, provider types, and care types.
+
+### Step 5: Review Supporting Materials
+
+Explore the `appendix` folder for presentation files, supporting documentation, and additional visual materials.
+
+**Note:** This is primarily a Tableau visualization project. There is no Python script or Jupyter notebook required to view the completed dashboards.
+---
+
 ## 👤 Author
 
 **Dilip Kumar Balu**  
