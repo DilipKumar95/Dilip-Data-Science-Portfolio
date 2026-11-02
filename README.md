@@ -89,6 +89,8 @@ Developed a generative AI assistant to create personalized workout plans based o
 **Project Overview:**
 Built AI-driven predictive models to forecast product demand, optimize inventory allocation, and recommend dynamic pricing strategies. Integrated historical sales data, promotional campaigns, and seasonal patterns. Applied regression, time-series analysis, and feature engineering to drive decision-making.
 
+[Source Code](https://github.com/DilipKumar95/Dilip-Data-Science-Portfolio/tree/main/AI-Driven-Retail-Optimization)
+
 
 ### Smart Healthcare Operations
 
