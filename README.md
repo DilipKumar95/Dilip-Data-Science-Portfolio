@@ -33,6 +33,7 @@ modeling, data visualization, and generative AI.
 7. [Personalized Fitness Assistant Powered by Generative AI](#personalized-fitness-assistant-powered-by-generative-ai)
 8. [AI-Driven Retail Optimization](AI-Driven-Retail-Optimization/)
 9. [Smart Healthcare Operations](#Smart-Healthcare-Operations)
+10. [Airline Delay Prediction and Operational Optimization](#Airline-Delay-Prediction-and-Operational-Optimization)
 
 I selected nine projects that best represent my experience and skills across data analysis, statistical analysis, machine learning, predictive modeling, generative AI, and business analytics. I chose to prioritize the quality and relevance of the projects rather than include an additional project solely to reach ten.
 
@@ -98,5 +99,10 @@ Built AI-driven predictive models to forecast product demand, optimize inventory
 
 **Project Overview:**
 Developed an AI-powered analytics solution to optimize hospital operations through patient demand forecasting and intelligent staff allocation. Utilized historical healthcare service data to predict patient inflow, analyze absenteeism patterns, and evaluate bed capacity utilization. Applied regression and classification models to support operational and prescriptive decision-making.
+
+### Airline Delay Prediction and Operational Optimization
+
+**Project Overview:**
+Airline delays disrupt connections, crew planning and passenger experience. This study evaluates whether historical U.S. flight records can flag arrivals at least 15 minutes late and estimate delay minutes. It distinguishes predictions before scheduled departure from predictions made after departure delay is known. 
 
 ---
