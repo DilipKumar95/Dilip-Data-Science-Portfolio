@@ -1,0 +1,28 @@
+{
+  "fine_tuned_model": "ft:gpt-4.1-2025-04-14:personal:fitnesscoach-50:E8GIXOPQ",
+  "test_prompts": [
+    "Generate a 5-day beginner workout plan for a 30-year-old female.",
+    "Generate a 3-day full-body home workout plan for a 25-year-old male.",
+    "Provide a 7-day cardio-focused workout routine for a 40-year-old female."
+  ],
+  "test_outputs": [
+    "**Day 1: Full Body**\n- Warm-Up: March in Place – 5 min\n- Bodyweight Squats – 3x10\n- Push-Ups (Knees) – 3x8\n- Bent-Over Rows – 3x10\n- Cool-Down: Forward Fold – 5 min\n\n**Day 2: Lower Body**\n- Warm-Up: Arm Circles – 5 min\n- Lunges – 3x10\n- Glute Bridge – 3x10\n- Plank – 3x20s\n- Cool-Down: Cat-Cow Stretch – 5 min\n\n**Day 3: Rest**\n\n**Day 4: Upper Body**\n- Warm-Up: March in Place – 5 min\n- Push-Ups (Knees) – 3x8\n- Bent-Over Rows – 3x10\n- Glute Bridge – 3x10\n- Cool-Down: Forward Fold – 5 min\n\n**Day 5: Core**\n- Warm-Up: Arm Circles – 5 min\n- Lunges – 3x10\n- Bodyweight Squats – 3x10\n- Plank – 3x20s\n- Cool-Down: Cat-Cow Stretch – 5 min",
+    "**Workout Plan (Home, Full-Body, 3 Days)**\n\n**Day 1**\n- Warm-up – 5 min\n- Push-ups – 3x12\n- Glute Bridge – 3x15\n- Plank – 3x30s\n- Lunges – 3x12\n- Cool-down – 5 min\n\n**Day 2**\n- Warm-up – 5 min\n- Squats – 3x12\n- Mountain Climbers – 3x15\n- Superman – 3x12\n- Side Plank – 3x30s\n- Cool-down – 5 min\n\n**Day 3**\n- Warm-up – 5 min\n- Lunges – 3x12\n- Bicycle Crunches – 3x15\n- Glute Bridge – 3x12\n- Push-ups – 3x12\n- Cool-down – 5 min",
+    "**Day 1**\n- Warm-Up: March in Place – 5 min\n- Main Workout:\n  - Bodyweight Squats – 3x12\n  - Push-Ups – 3x10\n  - Glute Bridge – 3x12\n- Cool-Down: Forward Fold – 5 min\n\n**Day 2**\n- Warm-Up: Arm Circles – 5 min\n- Main Workout:\n  - Step-Up – 3x12\n  - Plank – 3x30s\n  - Lunges – 3x10\n- Cool-Down: Cat-Cow Stretch – 5 min\n\n**Day 3**\n- Warm-Up: Leg Swings – 5 min\n- Main Workout:\n  - Lateral Band Walks – 3x12\n  - Mountain Climbers – 3x10\n  - Dead Bug – 3x12\n- Cool-Down: Child’s Pose – 5 min\n\n**Day 4**\n- Warm-Up: March in Place – 5 min\n- Main Workout:\n  - Bodyweight Squats – 3x12\n  - Push-Ups – 3x10\n  - Glute Bridge – 3x12\n- Cool-Down: Forward Fold – 5 min\n\n**Day 5**\n- Warm-Up: Arm Circles – 5 min\n- Main Workout:\n  - Step-Up – 3x12\n  - Plank – 3x30s\n  - Lunges – 3x10\n- Cool-Down: Cat-Cow Stretch – 5 min\n\n**Day 6**\n- Warm-Up: Leg Swings – 5 min\n- Main Workout:\n  - Lateral Band Walks – 3x12\n  - Mountain Climbers – 3x10\n  - Dead Bug – 3x12\n- Cool-Down: Child’s Pose – 5 min\n\n**Day 7**\n- Warm-Up: March in Place – 5 min\n- Main Workout:\n  - Bodyweight Squats – 3x12\n  - Push-Ups – 3x10\n  - Glute Bridge – 3x12\n- Cool-Down: Forward Fold – 5 min"
+  ],
+  "token_counts": [
+    301,
+    227,
+    503
+  ],
+  "accuracy_scores": [
+    0.83,
+    0.83,
+    0.83
+  ],
+  "simulated_loss": [
+    0.17000000000000004,
+    0.17000000000000004,
+    0.17000000000000004
+  ]
+}
