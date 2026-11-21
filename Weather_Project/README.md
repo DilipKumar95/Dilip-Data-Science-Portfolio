@@ -1,7 +1,6 @@
 # Open Weather – Your Daily Dose of Weather Wisdom
 
-**Author:** Karthika Vellingiri  
-**Date Created:** 25 Feb 2024  
+**Author:** Dilip Kumar Balu 
 **Program Requirement:** Interact with OpenWeatherMap API to retrieve current weather details for a given ZIP code or city.
 
 ---
