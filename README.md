@@ -47,6 +47,8 @@ I selected nine projects that best represent my experience and skills across dat
 **Project Overview:**
 Developed a Python application to retrieve real-time weather information for any U.S. city or ZIP code using the OpenWeatherMap API. The system fetches geographic coordinates, parses JSON responses, and extracts temperature, humidity, wind speed, and weather conditions. Implemented input validation, exception handling, and user-friendly messages to ensure reliable operation. Designed for scalability to include additional APIs or integration with dashboards.
 
+[Source Code](https://github.com/DilipKumar95/Dilip-Data-Science-Portfolio/tree/main/Weather_Project)
+
 
 
 ### Statistical Analysis of Student Spending Patterns
@@ -54,11 +56,15 @@ Developed a Python application to retrieve real-time weather information for any
 **Project Overview:**
 Conducted a comprehensive statistical study of student spending across categories such as food, transportation, and entertainment. Data cleaning, normalization, and aggregation were performed to ensure consistency. Applied descriptive statistics, correlation analysis, and hypothesis testing to identify patterns and relationships between income and expenditure.
 
+[Source Code](https://github.com/DilipKumar95/Dilip-Data-Science-Portfolio/tree/main/Student_Spending_Analysis)
+
 
 ### Movie Performance & Ratings Trend Analysis
 
 **Project Overview:**
 Analyzed historical movie datasets to evaluate box office collections, audience ratings, and genre trends over time. Data cleaning, aggregation, and exploratory data analysis were performed to identify top-performing films and seasonal trends. Visualizations were created to highlight insights for decision-making in entertainment analytics.
+
+[Source Code](https://github.com/DilipKumar95/Dilip-Data-Science-Portfolio/tree/main/Movie_Trend_Analysis)
 
 
 ### Telecom Customer Churn Prediction
@@ -66,11 +72,14 @@ Analyzed historical movie datasets to evaluate box office collections, audience 
 **Project Overview:**
 Built machine learning models to predict customer churn in the telecom industry. Preprocessing included handling missing values, encoding categorical features, and feature scaling. Models such as Logistic Regression, Random Forest, and Gradient Boosting were trained and evaluated using accuracy, precision, recall, and ROC-AUC metrics.
 
+[Source Code](https://github.com/DilipKumar95/Dilip-Data-Science-Portfolio/tree/main/Telecom_Churn_Prediction)
+
 ### House Price Prediction Using Regression Models
 
 **Project Overview:**
 Developed regression models to predict housing prices based on property features such as location, size, and amenities. Data preprocessing included handling missing values, feature engineering, and one-hot encoding. Model performance was evaluated using MSE, MAE, and R² metrics.
 
+[Source Code](https://github.com/DilipKumar95/Dilip-Data-Science-Portfolio/tree/main/House_Price_prediction)
 
 
 ### Childcare Cost Affordability Analysis
@@ -86,6 +95,8 @@ Created multi-format data visualizations to analyze childcare cost and affordabi
 **Project Overview:**
 Developed a generative AI assistant to create personalized workout plans based on user goals, fitness level, and constraints. Fine-tuned a large language model using a custom fitness dataset and explored model evaluation and application deployment.
 
+[Source Code](https://github.com/DilipKumar95/Dilip-Data-Science-Portfolio/tree/main/Fitness_Assistant_AI)
+
 
 ### AI-Driven Retail Optimization
 
@@ -100,9 +111,13 @@ Built AI-driven predictive models to forecast product demand, optimize inventory
 **Project Overview:**
 Developed an AI-powered analytics solution to optimize hospital operations through patient demand forecasting and intelligent staff allocation. Utilized historical healthcare service data to predict patient inflow, analyze absenteeism patterns, and evaluate bed capacity utilization. Applied regression and classification models to support operational and prescriptive decision-making.
 
+[Source Code](https://github.com/DilipKumar95/Dilip-Data-Science-Portfolio/tree/main/SmartHealthcareOperations)
+
 ### Airline Delay Prediction and Operational Optimization
 
 **Project Overview:**
 Airline delays disrupt connections, crew planning and passenger experience. This study evaluates whether historical U.S. flight records can flag arrivals at least 15 minutes late and estimate delay minutes. It distinguishes predictions before scheduled departure from predictions made after departure delay is known. 
+
+[Source Code](https://github.com/DilipKumar95/Dilip-Data-Science-Portfolio/tree/main/Airline%20Delay%20Prediction%20and%20Operational%20Optimization)
 
 ---
