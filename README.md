@@ -29,7 +29,7 @@ modeling, data visualization, and generative AI.
 3. [Movie Performance & Ratings Trend Analysis](#movie-performance--ratings-trend-analysis)
 4. [Telecom Customer Churn Prediction](#telecom-customer-churn-prediction)
 5. [House Price Prediction Using Regression Models](#house-price-prediction-using-regression-models)
-6. [Childcare Cost Affordability Analysis](#Childcare-Cost-Affordability)
+6. [Childcare Cost Affordability Analysis](#Childcare-Cost-Affordability-Analysis)
 7. [Personalized Fitness Assistant Powered by Generative AI](#personalized-fitness-assistant-powered-by-generative-ai)
 8. [AI-Driven Retail Optimization](#AI-Driven-Retail-Optimization)
 9. [Smart Healthcare Operations](#Smart-Healthcare-Operations)
